@@ -1,0 +1,28 @@
+body{
+	background: url("https://e0.pxfuel.com/wallpapers/510/334/desktop-wallpaper-leowefowa-ft-rustic-retro-wood-plank-red-rose-flowers-backdrop-vinyl-child-kids-baby-girl-lady-graphy-background-tea-party-bday-banner-bridal-shoot-studio-props-electronics-rustic-rose.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	color: rgb(101, 252, 63);
+}
+
+input{
+	font-size: 40px;
+	color: blue;
+	background-color: rgb(3, 252, 252);
+	height:100px; 
+	width:200px;
+	text-align: center; 
+	display: grid; 
+	justify-content: center;  
+	align-items: center;  
+}
+
+.jumbotron {
+	margin: 200px;
+	padding: 50px;
+	border-radius: 40px ;
+}
+
+ul{
+	justify-content: right;
+}
